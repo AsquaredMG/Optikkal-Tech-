@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(18, 51, 51);
+    font-family: sans-serif;
+}
+.form h1{
+    align-content: center;
+    color: #fff;
+}
+.form{
+    width: 40%;
+    height: 300px;
+    background-color: rgb(15, 43, 43);
+    border-radius: 15px;
+    padding: 30px;
+    margin-left: 25%;
+   
+}
+        
+.form label{
+    font-size: 20px;
+    font-family: sans-serif;
+    display: flex;
+    display:flex;
+    justify-content:left; 
+    margin-left: 100px;
+    color:#fff;
+}
+.form input {
+    justify-content:center;
+    margin-left: 100px; 
+    margin-bottom: 20px;
+}
