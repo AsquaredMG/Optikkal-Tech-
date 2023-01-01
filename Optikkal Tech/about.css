@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(18, 51, 51);
+    font-family: sans-serif;
+}
+.section{
+    width: 90%;
+    background-color: rgb(26, 65, 65);
+    margin: 80px;
+    box-sizing: border-box;
+    padding: 15px;
+    text-align: justify; 
+}
+h2 {
+    text-align: center;
+}

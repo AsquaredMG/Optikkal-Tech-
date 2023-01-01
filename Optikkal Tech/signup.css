@@ -7,29 +7,31 @@ body{
 .form h1{
     align-content: center;
     color: #fff;
-    margin-bottom: 70px;
 }
 .form{
-    width: 50%;
-    height: 300px;
+    width: auto;
+    height: 650px;
     background-color: rgb(15, 43, 43);
     border-radius: 15px;
-    padding: 15px;
-    margin: 10% 25% 10% 25%;
+    padding: 5px;
+    margin: 5% 20% 5% 20%;
+    align-items: center;
    
 }
         
 .form label{
     font-size: 20px;
     font-family: sans-serif;
-    text-align: start;
-    color:#fff;
     display: inline-block;
-    width: 30%;
+    color:#fff;
+    width:35%;
+    display: inline-block;
+    margin-left: 20px;
+    text-align:start;
 }
-.form input {
-    margin-bottom: 20px;
-}
-.button{
-    margin-top: 40px;
+.form input{
+    margin-bottom: 30px;
+    width: 150px;
+    height: 20px;
+    
 }
